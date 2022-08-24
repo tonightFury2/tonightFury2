@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Night Fury's private repository 👋
 
 <!--
 **tonightFury2/tonightFury2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
